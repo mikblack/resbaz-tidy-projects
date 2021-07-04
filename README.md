@@ -3,49 +3,36 @@ Time allotted: 1 hour
 # Tidy projects
 
 
-This repository is a workshop/tutorial where attendees play the part of "new research group members", who receive a zip file for a former project/lab team member, and are needing to use this information to start working in their new role.
+This repository is a workshop/tutorial where attendees play the part of "new research group members", who receive a zip file from a former project/lab team member, and are needing to use this information to start working in their new role.
 
-The exercise in this workshop is designed as a practical implementation of the presentation from the [Genomic Aotearoa Good Practice Workshop](https://github.com/GenomicsAotearoa/ga-good-practice).
-
-
-The compressed tar file contains:
+The zip file contains:
 
 - data
-- script(s) (python: *.py, R: *.R, bash: *.sh, slurm: *.sl )
+- an R script for loading the data and making some graphs
 - results derived from using the script
 - a Word document containing some kind of report/commentary 
 - some notes relating to the data that have been used
 
-This workshop can be done either locally or on [NeSI in the Jupyter notebooks](https://jupyter.nesi.org.nz/hub/login?next=/hub/) bash terminal if you wish.
-
 Your task is to:
 
-## 1. Download [`rnaseq.tar.gz`](https://github.com/murraycadzow/tidy-projects/raw/project_creation/rnaseq.tar.gz) (5 min exercise)
+## 1. Download the file [`my-project-final.zip`](https://github.com/murraycadzow/tidy-projects/raw/project_creation/rnaseq.tar.gz) (5 min exercise)
 
 
-**Data download link:** [`rnaseq.tar.gz`](https://github.com/murraycadzow/tidy-projects/raw/project_creation/rnaseq.tar.gz)
+**Data download link:** [`my-project-final.zip`](https://github.com/murraycadzow/tidy-projects/raw/project_creation/rnaseq.tar.gz)
 
-```bash
-# This code block relates to if you are doing this on NeSI
+Two options:
 
-# change into the workshop directory
-cd /nesi/nobackup/nesi02659/tidy-projects
-
-# create then move into a directory for your username
-mkdir $(whoami)
-cd $(whoami)
-```
-
-
-Download and extract the data
+(a) Use the command line to download and extract the data
 ```bash
 # download the file on the commandline
-wget https://github.com/murraycadzow/tidy-projects/raw/project_creation/rnaseq.tar.gz
+wget 
 
 # extract the tar archive
-tar -xzf rnaseq.tar.gz
-cd rnaseq/
+unzip my-project-final.zip
+cd my-project-final/
 ```
+
+(b) Right click (or command-click on Mac) and download the file, and then extract the files into a folder called `my-project-final`.
 
 ## 2. Investigate the contents of the files (10 min exercise, 5 min discussion)
    
@@ -61,7 +48,6 @@ _Pause for discussion_
 - separate code, data, results
 - add documentation
 - (optional) convert analysis/documentation into a markdown (or Rmarkdown) document
-   - include metadata
 - update the analysis
 - anything else?
 
@@ -74,5 +60,3 @@ _Pause for discussion_
 ## 5. (optional) Apply the concepts of tidy projects to one of your existing projects    
 
 Have a go at tidying up one of your existing projects.
-
-
