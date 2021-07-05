@@ -15,17 +15,17 @@ The zip file contains:
 
 Your task is to:
 
-## 1. Download the file [`my-project-final.zip`](https://github.com/murraycadzow/tidy-projects/raw/project_creation/rnaseq.tar.gz) (5 min exercise)
+## 1. Download the file [`my-project-final.zip`](https://github.com/mikblack/resbaz-tidy-projects/blob/main/my-project-final.zip) (5 min exercise)
 
 
-**Data download link:** [`my-project-final.zip`](https://github.com/murraycadzow/tidy-projects/raw/project_creation/rnaseq.tar.gz)
+**Data download link:** [`my-project-final.zip`](https://github.com/mikblack/resbaz-tidy-projects/blob/main/my-project-final.zip)
 
 Two options:
 
 (a) Use the command line to download and extract the data
 ```bash
 # download the file on the commandline
-wget 
+wget https://github.com/mikblack/resbaz-tidy-projects/blob/main/my-project-final.zip
 
 # extract the tar archive
 unzip my-project-final.zip
