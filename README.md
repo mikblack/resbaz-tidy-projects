@@ -26,7 +26,7 @@ The zip file contains:
 
 Your task is to:
 
-## 1. Download the data file (5 min exercise)
+### 1. Download the data file (5 min exercise)
 
 
 **Data download link:** [`my-project-final.zip`](https://github.com/mikblack/resbaz-tidy-projects/raw/main/my-project-final.zip)
@@ -45,7 +45,7 @@ cd my-project-final/
 
 (b) Right click (or command-click on Mac) and download the file, and then extract the files into a folder called `my-project-final`.
 
-## 2. Investigate the contents of the files (10 min exercise, 5 min discussion)
+### 2. Investigate the contents of the files (10 min exercise, 5 min discussion)
    
 - Do the files match the contents of the analysis?
 - What are some of the problems you came across?
@@ -53,7 +53,7 @@ cd my-project-final/
 _Pause for discussion_
 
 
-## 3. Improve the repository (15 min exercise, 5 min discussion)
+### 3. Improve the repository (15 min exercise, 5 min discussion)
    
 - (optional) implement version control on the directory and track the changes you make
 - separate code, data, results
@@ -62,12 +62,12 @@ _Pause for discussion_
 - update the analysis
 - anything else?
 
-## 4. Think about how you could make this analysis and data shareable (10-15 min discussion)
+### 4. Think about how you could make this analysis and data shareable (10-15 min discussion)
    
 - what are some considerations for the code, analysis, and data?
 
 _Pause for discussion_
 
-## 5. (optional) Apply the concepts of tidy projects to one of your existing projects    
+### 5. (optional) Apply the concepts of tidy projects to one of your existing projects    
 
 Have a go at tidying up one of your existing projects.
