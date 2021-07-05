@@ -15,10 +15,10 @@ The zip file contains:
 
 Your task is to:
 
-## 1. Download the file [`my-project-final.zip`](https://github.com/mikblack/resbaz-tidy-projects/blob/main/my-project-final.zip) (5 min exercise)
+## 1. Download the file `my-project-final.zip` (5 min exercise)
 
 
-**Data download link:** [`my-project-final.zip`](https://github.com/mikblack/resbaz-tidy-projects/blob/main/my-project-final.zip)
+**Data download link:** [`my-project-final.zip`](https://github.com/mikblack/resbaz-tidy-projects/raw/main/my-project-final.zip)
 
 Two options:
 
