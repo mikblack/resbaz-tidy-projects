@@ -13,7 +13,7 @@ of the principles covered in the papers:
     <BR>
     doi: [10.1371/journal.pcbi.1003285](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
 
-A presentation which works through some of these concepts is included in this repository: [PDF version](https://github.com/mikblack/resbaz-tidy-projects/blob/main/slides/resbaz-good-practice-slides.pdf)
+A presentation which works through some of these concepts is included in this repository: [PDF version](https://github.com/mikblack/resbaz-tidy-projects/raw/main/slides/resbaz-good-practice-slides.pdf)
 
 Workshop attendees play the part of "new research group members", who receive a zip file from a former project/lab team member, and are needing to use this information to start working in their new role.
 
