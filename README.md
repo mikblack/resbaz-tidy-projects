@@ -1,7 +1,21 @@
 # Tidy projects
 
+This repository is a workshop/tutorial which has been deisgned to illustrate (and provide the opportunity to pratice) some 
+of the principles covered in the papers:
 
-This repository is a workshop/tutorial where attendees play the part of "new research group members", who receive a zip file from a former project/lab team member, and are needing to use this information to start working in their new role.
+ - **Good enough practices in scientific computing**:
+    <BR>
+    Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK.  PLoS Comput Biol. 2017 Jun 22;13(6):e1005510.<BR> 
+    doi: [10.1371/journal.pcbi.1005510](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510) 
+ - **Ten Simple Rules for Reproducible Computational Research**
+    <BR>
+    Sandve GK, Nekrutenko A, Taylor J, Hovig E. PLoS Comput Biol. 2013 Oct;9(10):e1003285. 
+    <BR>
+    doi: [10.1371/journal.pcbi.1003285](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
+
+A presentation which works through some of these concepts is included in this repository: [PDF version](https://github.com/mikblack/resbaz-tidy-projects/blob/main/slides/resbaz-good-practice-slides.pdf)
+
+Workshop attendees play the part of "new research group members", who receive a zip file from a former project/lab team member, and are needing to use this information to start working in their new role.
 
 The zip file contains:
 
