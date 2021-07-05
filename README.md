@@ -1,5 +1,3 @@
-Time allotted: 1 hour
-
 # Tidy projects
 
 
