@@ -182,9 +182,9 @@ Sections:
 
 </ol>
 
-# Even if you are not working as part of a team...<BR><BR><BR>
+# Even if you are not working<BR>as part of a team...<BR><BR><BR>
 
-# Even if you are not working as part of a team...<BR><BR>...YOU ARE!!
+# Even if you are not working<BR> as part of a team...<BR><BR>...YOU ARE!!
 
 ## Collaboration 
 
