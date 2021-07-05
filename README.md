@@ -12,7 +12,7 @@ The zip file contains:
 
 Your task is to:
 
-## 1. Download the file `my-project-final.zip` (5 min exercise)
+## 1. Download the data file (5 min exercise)
 
 
 **Data download link:** [`my-project-final.zip`](https://github.com/mikblack/resbaz-tidy-projects/raw/main/my-project-final.zip)
