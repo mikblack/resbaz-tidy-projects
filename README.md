@@ -11,7 +11,6 @@ The zip file contains:
 - an R script for loading the data and making some graphs
 - results derived from using the script
 - a Word document containing some kind of report/commentary 
-- some notes relating to the data that have been used
 
 Your task is to:
 

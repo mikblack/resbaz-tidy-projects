@@ -2,7 +2,15 @@ This file covers many of the discussion points from the workshop:
 
 ## 1. Download the data (10 min)
 
-Explain how to get the data and what the archive contains and the background of the project. Originally based on the RNAseq workshop.
+Explain how to get the data and what the archive contains. 
+
+```
+├── car-speeds.csv
+├── plot1.png
+├── plot2.png
+├── rcode.R
+└── results-final.docx
+```
 
 ## 2. Investigate the contents of the files (10 min exercise, 5 min discussion)
 
@@ -21,10 +29,9 @@ Discussion points:
 - no explicit license
 - no readme
 - project structure needs to be created
-- meta data lacking
 - figures don't match
 - numbers in analysis need to be checked
-- analysis document is in a proprietary format
+- results document is in a proprietary format
 - no version control
 
 ## 3. Improve the repository (15 min, 5 min discussion)
@@ -39,16 +46,13 @@ Discussion points:
 
 _After allowing time, get some attendees to share what they did_
 
-Ideally a structure that makes sense and follows what is suggested in the [ga-good-practice workshop](https://github.com/GenomicsAotearoa/ga-good-practice)
-
-Probe for what they included and how they found extra information for metadata - links from the citation in the analysis lead to the paper which leads to NCBI repo. Googling the samples in the data file plus NCBI can lead to the original fastq files. Can also look for more information in the RNAseq workshop.
 
 # 4. Think about how you could make this analysis and data shareable (10-15 min discussion)
 
 - what are some considerations for the code, analysis, and data?
 
 The overarching consideration is who are other stakeholders/communities that need to be consulted before anything is shared
-- chances are very high that someone else needs to be part of the conversation - especially indigenous communities.
+- does someone else needs to be part of the conversation - especially indigenous communities.
 
 Code:
 - who wrote the code -> IP considerations
@@ -69,7 +73,7 @@ Three main principles ownership, where can the data be stored, and size.
 - Who owns/controls the data - make sure that indigenous communities are involved up front!
 - What geographical restrictions are there for where the data is physically stored?
   - does it need to remain in country?
-    - NeSI/GA data repository is a good default
+    - institutional data storage
     - cloud based storage: dropbox, aws, onedrive, azure, catalyst, etc.- > **where will the data be physically hosted?**
 - Size of data will determine what methods of data sharing will be appropriate
   - github might be appropriate for small scale e.g. < 100 MB
